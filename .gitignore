@@ -8,3 +8,4 @@ bottleneck_features/DogVGG16Data.npz
 
 bottleneck_dog.npy
 bottleneck_human.npy
+__pycache__/
